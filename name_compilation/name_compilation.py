@@ -65,6 +65,8 @@ for fname in track_names:
     else:
         print "Could not identify:", path
         
-#Note for improvement: need to find way to check the "part of compilation" box,
-#so the songs stay together in itunes.
+#Notes for improvement: 
+# -Need to find way to check the "part of compilation" box, so the songs 
+# stay together in itunes.
+# -Add support for non-mp4 file types.
     
